@@ -10,9 +10,11 @@
 4. 用 Python 处理 csv 格式的数据
 5. 用 Python 获取网页中的数据
 
+这里主要介绍 Python 的一些背景资料以及我们所需要的 Anaconda 的环境准备。后面的部分将利用 Jupyter Notebook 这一工具所提供的交互式界面进行介绍。
+
 ## Python 的基本介绍
 
-Python 
+Python 最近几年由于在机器学习以及数据分析领域的出色表现变得越来越流行。其简单易懂的语法以及丰富的开发工具也让其成为了入门编程学习的最佳语言。
 
 ## Python 环境的安装
 
@@ -72,7 +74,7 @@ Python
 
 ![](anaconda-navigator.png)
 
-默认的「Home」选项卡会看到 Jupyter Notebook，也是我们接下来要主要使用的 Python 学习与开发工具。
+默认的「Home」选项卡会看到 Jupyter Notebook，也是我们接下来要主要使用的开发工具。
 
 ![](anaconda-jupyter-notebook.png)
 
