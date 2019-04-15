@@ -58,8 +58,26 @@ Python
 
 我们之后主要用到的是「Anaconda Prompt」以及「Anaconda Navigator」。
 
-### 使用 Anaconda 打开 Python 
+### 使用 Anaconda 打开 Python
 
 在「开始」菜单中点击「Anaconda Prompt」会跳出一个黑色的框框，也就是「命令行窗口」。
 
 ![](anaconda-python-in-terminal.png)
+
+输入 `python` 可以看到如上的信息，显示我们在使用 Anaconda 下的 Python 3.7。
+
+### 查看 Anaconda Navigator 
+
+在「开始」菜单中点击「Anaconda Navigator」会跳出 Anaconda 的管理页面。
+
+![](anaconda-navigator.png)
+
+默认的「Home」选项卡会看到 Jupyter Notebook，也是我们接下来要主要使用的 Python 学习与开发工具。
+
+![](anaconda-jupyter-notebook.png)
+
+下面的「Environment」选项卡展示了目前 Anaconda 默认安装了哪些 Python 类库。
+
+![](anaconda-env.png)
+
+> Python 类库就是指其他人写的 Python 甚至是其他编程语言所写的程序，直接复用他人的代码可以大大提升我们的开发效率。
