@@ -83,3 +83,19 @@ Python 最近几年由于在机器学习以及数据分析领域的出色表现�
 ![](anaconda-env.png)
 
 > Python 类库就是指其他人写的 Python 甚至是其他编程语言所写的程序，直接复用他人的代码可以大大提升我们的开发效率。
+
+### macOS 下的安装与使用
+
+在 macOS 下，Anaconda 的安装大体相同，只是在安装成功后打开「命令行」的方式略有不同：
+
+首先打开小火箭 lauchpad：
+
+![](mac-lauchpad.png)
+
+找到「其他」
+
+![](mac-others.png)
+
+点击终端
+
+![](terminal.png)
