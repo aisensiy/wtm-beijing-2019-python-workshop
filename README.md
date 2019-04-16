@@ -99,3 +99,40 @@ Python 最近几年由于在机器学习以及数据分析领域的出色表现�
 点击终端
 
 ![](terminal.png)
+
+## Jupyter Notebook 的使用
+
+Jupyter Notebook 可以理解是是一个可以执行 Python（其实还可以执行其他编程语言）代码的记事本。很多介绍编程的书籍会在介绍的过程中嵌入一些代码片段，但这种代码片段只能被查看而已，但 Jupyter Notebook 则是一个可以让嵌入的代码片段可以被读者随意修改并执行的环境。一方面它非常适合那种一边讲解一边呈上代码执行的场景，被很多做数据分析以及机器学习的人所青睐。另一方面，它作为一种交互式的编程环境也非常适合我们在入门编程时使用。
+
+![随便一个书中的截图](python-snippet.png)
+
+### 打开 Jupyter Notebook
+
+首先，按照上文所属的方式，打开一个「命令行」，然后创建一个新的文件夹并进入：
+
+```
+mkdir learn-python
+cd learn-python
+```
+
+然后，输入一下内容开启 jupyter notebook:
+
+```
+jupyter notebook
+```
+
+如果一切正常你会看到「命令行」里出现了如下的信息，并且浏览器弹出一个新的页面：
+
+![](jupyter-terminal.png)
+
+![](jupyter-first-page.png)
+
+点击右上角的「New」创建一个 Python 3 的文档：
+
+![](jupyter-new-python3.png)
+
+这时候会有一个新的页面弹出来：
+
+![](jupyter-untitled.png)
+
+我们第一个 Jupyter Notebook 文件的创建就完成了。
