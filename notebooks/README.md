@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aisensiy/wtm-beijing-2019-python-workshop/master?filepath=notebooks)
